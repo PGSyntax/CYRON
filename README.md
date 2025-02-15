@@ -17,6 +17,9 @@
 - **Offensive Tools**
 - **Settings**
 
+[Projektstruktur anzeigen](./assets/struktur.txt)
+
+
 ## Current Status
 
 Not all tools are fully functional yet. Some tools are currently placeholders or simulated and will later be replaced by Python scripts that will power **CYRON 2.0**.
